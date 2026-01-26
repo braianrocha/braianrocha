@@ -4,11 +4,10 @@
 <table>
   <tr>
     <td>
-      🔭 Atualmente estou trabalhando em um projeto PHP / CakePHP.<br><br>
-      🌱 Atualmente estou aprendendo mais sobre testes automatizados com PHPUnit e Kotlin <br><br>
-      💬 Pergunte-me sobre desenvolvimento PHP e frameworks como CakePHP e DevExtreme.<br><br>
+      🔭 Atualmente estou trabalhando em um projeto PHP ( Laravel + CakePHP ).<br><br>
+      🌱 Atualmente estou aprendendo mais sobre VueJs <br><br>
       📫 Como me encontrar: braianluz@gmail.com <br><br>
-      ⚡ Curiosidade: Gosto de me divertir no meu tempo livre.
+      
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=braianrocha&theme=blue-green" alt="Top Langs" />
