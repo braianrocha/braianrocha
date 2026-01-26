@@ -1,26 +1,33 @@
-## Olá 👋
+<div align="center">
+  <h2>Olá, eu sou o Braian Rocha! 👋</h2>
+  <p>Desenvolvedor Backend focado em ecossistema PHP.</p>
+</div>
 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /><img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" />
-<table>
+<br>
+
+<table border="0">
   <tr>
-    <td>
-      🔭 Atualmente estou trabalhando em um projeto PHP ( Laravel + CakePHP ).<br><br>
-      🌱 Atualmente estou aprendendo mais sobre VueJs <br><br>
-      📫 Como me encontrar: braianluz@gmail.com <br><br>
-      
+    <td width="50%" valign="top">
+      <h3>Sobre mim</h3>
+      <p>🔭 <b>Trabalho atual:</b> Projetos PHP (Laravel + CakePHP) e manutenção de legados.</p>
+      <p>🌱 <b>Estudando:</b> Aprofundando em Vue.js.</p>
+      <p>⚡ <b>Curiosidade:</b> Gosto de aproveitar meu tempo livre para me divertir e desconectar.</p>
+      <p>📫 <b>Contato:</b> <a href="mailto:braianluz@gmail.com">braianluz@gmail.com</a></p>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=braianrocha&theme=blue-green" alt="Top Langs" />
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=braianrocha&theme=blue-green&layout=compact" alt="Top Langs" />
+      </div>
     </td>
   </tr>
 </table>
 
-<br>
-
-
-<!--
-**braianrocha/braianrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
+<h3 align="left">🛠 Tech Stack</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/CakePHP-%23D33C43.svg?style=for-the-badge&logo=cakephp&logoColor=white" alt="CakePHP"/>
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue"/>
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/phpunit-%233ea7d3.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit"/>
+</div>
