@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/CakePHP-%23D33C43.svg?style=for-the-badge&logo=cakephp&logoColor=white" alt="CakePHP"/>
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue"/>
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/phpunit-%233ea7d3.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit"/>
 </div>
