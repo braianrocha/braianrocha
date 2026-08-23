@@ -114,16 +114,8 @@ Mentor de novos desenvolvedores, conduzindo treinamentos internos, 1:1s e planos
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=braianrocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braianrocha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=braianrocha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
-</p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=braianrocha&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=braianrocha&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=braianrocha&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=braianrocha&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=braianrocha&theme=tokyonight&utcOffset=-3" /> </p>
 
 ---
 
