@@ -91,7 +91,7 @@ Experiência prática integrando sistemas web com equipamentos físicos:
 
 ### 💙 GIDO — SaaS de Gestão para ILPI (Projeto Autoral)
 
- 🌐 Acesse: braianrocha.com.br
+ **🌐 Acesse:** [braianrocha.com.br](https://braianrocha.com.br)
 
   Produto autoral em desenvolvimento ativo, atualmente em fase de testes com usuários reais. Um SaaS completo para gestão de Instituições de Longa Permanência para Idosos (ILPI).
 
