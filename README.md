@@ -128,6 +128,7 @@ Mentor de novos desenvolvedores, conduzindo treinamentos internos, 1:1s e planos
 ---
 
 📊 GitHub Stats
+> 💼 A maior parte do meu código profissional está em repositórios privados corporativos. Meu portfólio autoral público está em construção ativa. [GIDO](https://braianrocha.com.br) é o primeiro, novos projetos vindo nas próximas semanas.
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=braianrocha&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=braianrocha&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=braianrocha&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=braianrocha&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=braianrocha&theme=tokyonight&utcOffset=-3" /> </p>
 
 ---
