@@ -1,34 +1,23 @@
-<div align="center">
-  <h2>Olá, eu sou o Braian Rocha! 👋</h2>
-  <p>Desenvolvedor Backend focado em ecossistema PHP.</p>
-</div>
-
-<br>
-
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Sobre mim</h3>
-      <p>🔭 <b>Trabalho atual:</b> Projetos PHP (Laravel + CakePHP) e manutenção de legados.</p>
-      <p>🌱 <b>Estudando:</b> Aprofundando em Vue.js.</p>
-      <p>⚡ <b>Curiosidade:</b> Gosto de aproveitar meu tempo livre para me divertir e desconectar.</p>
-      <p>📫 <b>Contato:</b> <a href="mailto:braianluz@gmail.com">braianluz@gmail.com</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=braianrocha&theme=blue-green&layout=compact" alt="Top Langs" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<h3 align="left">🛠 Tech Stack</h3>
-<div align="left">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/CakePHP-%23D33C43.svg?style=for-the-badge&logo=cakephp&logoColor=white" alt="CakePHP"/>
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/phpunit-%233ea7d3.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit"/>
-</div>
+<h1 align="center">Olá, eu sou o Braian Rocha! 👋</h1> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Desenvolvedor+Backend+%7C+Ecossistema+PHP;Laravel+%E2%80%A2+CakePHP+%E2%80%A2+Vue.js;Especialista+em+sistemas+legados+e+modernos;7%2B+anos+transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=braianrocha&label=Visitas+no+perfil&color=6366f1&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/braianrocha?label=Followers&style=flat&color=6366f1" alt="followers" /> </p>
+🛠️ Stack Técnica
+Backend
+<p> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white" /> <img src="https://img.shields.io/badge/PHPUnit-3EA7D3?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" /> </p>
+Frontend
+<p> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> </p>
+Bancos de Dados
+<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> </p>
+DevOps & Cloud
+<p> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> </p>
+Ferramentas
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p>
+👨‍💻 Sobre mim
+🔭 Trabalho atual: Desenvolvimento e manutenção de sistemas em Laravel e CakePHP — do greenfield ao legado que precisa de carinho
+🏗️ O que faço bem: APIs robustas, refatoração de código legado, integrações complexas e modelagem de dados
+🧪 Boas práticas: Testes com PHPUnit, versionamento com Git, revisão de código
+🌱 Estudando agora: Aprofundando em Vue.js e arquitetura de software (SOLID, DDD, Clean Architecture)
+⚡ Fora do código: Aproveito o tempo livre pra me divertir e desconectar — equilíbrio importa
+💬 Bora conversar sobre: PHP, Laravel, CakePHP, arquitetura, testes ou migração de legado
+📊 GitHub Stats
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=braianrocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braianrocha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=braianrocha&theme=tokyonight&hide_border=true" alt="streak stats" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=braianrocha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" /> </p>
+🤝 Vamos conversar?
+<p align="center"> <a href="https://linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:braianluz@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://SEU-PORTFOLIO-AQUI.com" target="_blank"> <img src="https://img.shields.io/badge/Portf%C3%B3lio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="https://github.com/braianrocha"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
