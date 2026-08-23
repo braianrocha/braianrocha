@@ -89,6 +89,17 @@ Experiência prática integrando sistemas web com equipamentos físicos:
 
 ## 🚀 Projetos em Destaque
 
+### 💙 GIDO — SaaS de Gestão para ILPI (Projeto Autoral)
+
+ 🌐 Acesse: braianrocha.com.br
+
+  Produto autoral em desenvolvimento ativo, atualmente em fase de testes com usuários reais. Um SaaS completo para gestão de Instituições de Longa Permanência para Idosos (ILPI).
+
+- 🏥 Módulos: Prontuário eletrônico, controle de medicamentos, escala de equipe, financeiro e portal do familiar
+- 🏛️ Arquitetura multi-tenant dados isolados por instituição
+- 📱 PWA 100% web e mobile, instalável em qualquer dispositivo
+- 🛠️ Stack: Laravel, Vue.js, MySQL, Tailwind CSS
+
 ### 🏢 Sistema de Controle de Acesso — Condomínio Logístico
 Sistema de gestão de acesso implantado em condomínio logístico que abriga centros de distribuição da **Magazine Luiza** e **Shopee**. Responsável desde a modelagem do banco até a implantação, com integração de reconhecimento facial e catracas Hikvision.
 - 👥 **190 usuários ativos**
