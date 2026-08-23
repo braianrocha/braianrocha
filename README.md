@@ -89,7 +89,7 @@ Experiência prática integrando sistemas web com equipamentos físicos:
 
 ## 🚀 Projetos em Destaque
 
-### 💙 GIDO — SaaS de Gestão para ILPI (Projeto Autoral)
+### 💙 GIDO - SaaS de Gestão para ILPI (Projeto Autoral)
 
  **🌐 Acesse:** [braianrocha.com.br](https://braianrocha.com.br)
 
@@ -100,7 +100,7 @@ Experiência prática integrando sistemas web com equipamentos físicos:
 - 📱 PWA 100% web e mobile, instalável em qualquer dispositivo
 - 🛠️ Stack: Laravel, Vue.js, MySQL, Tailwind CSS
 
-### 🏢 Sistema de Controle de Acesso — Condomínio Logístico
+### 🏢 Sistema de Controle de Acesso - Condomínio Logístico
 Sistema de gestão de acesso implantado em condomínio logístico que abriga centros de distribuição da **Magazine Luiza** e **Shopee**. Responsável desde a modelagem do banco até a implantação, com integração de reconhecimento facial e catracas Hikvision.
 - 👥 **190 usuários ativos**
 - 🚶 **1.000+ acessos de pessoas/dia**
