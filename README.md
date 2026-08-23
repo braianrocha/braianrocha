@@ -93,7 +93,9 @@ Experiência prática integrando sistemas web com equipamentos físicos:
 
  **🌐 Acesse:** [braianrocha.com.br](https://braianrocha.com.br)
 
-  Produto autoral em desenvolvimento ativo, atualmente em fase de testes com usuários reais. Um SaaS completo para gestão de Instituições de Longa Permanência para Idosos (ILPI).
+  <img src="https://raw.githubusercontent.com/braianrocha/braianrocha/main/assets/gido-preview.png" alt="GIDO preview" width="100%" />
+
+  Produto autoral ainda em desenvolvimento ativo, atualmente em fase de testes com usuários reais. Um SaaS completo para gestão de Instituições de Longa Permanência para Idosos (ILPI).
 
 - 🏥 Módulos: Prontuário eletrônico, controle de medicamentos, escala de equipe, financeiro e portal do familiar
 - 🏛️ Arquitetura multi-tenant dados isolados por instituição
