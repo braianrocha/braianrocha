@@ -18,12 +18,12 @@ Laravel • CakePHP • Vue.js • Integração com Hardware<br>
 
 ## Sobre mim
 
-- **Trabalho atual:** Liderança técnica no desenvolvimento de sistemas em **CakePHP** e **Laravel** desde projetos do zero até a atualização de monolitos legados
-- **Especialidades:** APIs REST, modelagem e otimização de banco de dados, integração com hardware, mentoria técnica
-- **Formação:** Bacharel em Ciência da Computação • Pós-graduação em **Inteligência Artificial e Machine Learning** (PUC Minas, 2025-2026)
-- **Boas práticas:** Testes automatizados (PHPUnit, CodeceptJS), Git, revisão de código, metodologias ágeis
-- **Estudando agora:** Vue.js, IA/ML aplicado a soluções corporativas, arquitetura de software (SOLID, DDD, Clean Architecture)
-- **Bora conversar sobre:** PHP, Laravel, CakePHP, arquitetura, integração de sistemas, modernização de legado ou IA
+ **Trabalho atual:** Liderança técnica no desenvolvimento de sistemas em **CakePHP** e **Laravel** desde projetos do zero até a atualização de monolitos legados
+ **Especialidades:** APIs REST, modelagem e otimização de banco de dados, integração com hardware, mentoria técnica
+ **Formação:** Bacharel em Ciência da Computação • Pós-graduação em **Inteligência Artificial e Machine Learning** (PUC Minas, 2025-2026)
+ **Boas práticas:** Testes automatizados (PHPUnit, CodeceptJS), Git, revisão de código, metodologias ágeis
+ **Estudando agora:** Vue.js, IA/ML aplicado a soluções corporativas, arquitetura de software (SOLID, DDD, Clean Architecture)
+ **Bora conversar sobre:** PHP, Laravel, CakePHP, arquitetura, integração de sistemas, modernização de legado ou IA
 
 ---
 
