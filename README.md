@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Braian Rocha! 👋</h1>
 
-<h3 align="center">Desenvolvedor PHP Full Stack Pleno</h3>
+<h3 align="center">Engenheiro de Software PHP Full Stack Pleno</h3>
 
 <p align="center">
   Laravel • CakePHP • Vue.js • Integração com Hardware<br>
